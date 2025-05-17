@@ -1,0 +1,4 @@
+class SupabaseSecrets {
+    static const supabaseUrl='https://eiceptlhkfbxiljmoisz.supabase.co';
+    static const supabaseanonkey='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVpY2VwdGxoa2ZieGlsam1vaXN6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM2ODM2MjAsImV4cCI6MjA1OTI1OTYyMH0.gkIUs79qhKuHo8xlktBxrV7j38uT2vH7tWCwUJFxwyA';
+}
